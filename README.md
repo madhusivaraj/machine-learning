@@ -1,2 +1,2 @@
-# machine-learning
+# Machine Learning
 CS536: Machine Learning II
